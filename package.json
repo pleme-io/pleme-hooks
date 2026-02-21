@@ -1,5 +1,5 @@
 {
-  "name": "@pleme/hooks",
+  "name": "@pleme-io/hooks",
   "version": "1.0.0",
   "description": "Shared TypeScript library for Nexus products",
   "type": "module",
